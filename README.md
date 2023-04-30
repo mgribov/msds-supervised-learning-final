@@ -1,5 +1,7 @@
 # Predicting Wine Quality From Chemical Composition
 
+Video of the presentation: https://youtu.be/BZMT3t53mAc
+
 The goal of this project is to attempt to predict quality of wine based on its chemical properties.
 
 The project uses the [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) dataset, publicly available from the [UCI ML data repository](https://archive.ics.uci.edu/ml/datasets.php).
